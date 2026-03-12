@@ -1,12 +1,33 @@
 Tool,Count,Percentage
-Vulnogram,27729,77.19
-Bippy,5458,15.19
-WPScan CVE Generator,2042,5.68
-cveClient,245,0.68
-VINCE,156,0.43
-enrichogram 0.0.1,135,0.38
-F5 SIRTBot v1.0,104,0.29
-Robot Vulnerability Database (RVD),28,0.08
-SecretariatVulnogram,14,0.04
-advisoriator,8,0.02
-Tod's Junk Converter 0.0.2,6,0.02
+Vulnogram,40984,69.97
+Bippy,10448,17.84
+WPScan CVE Generator,2551,4.36
+vulncheck,1716,2.93
+enrichogram 0.0.1,760,1.3
+cvelib 1.8.0,490,0.84
+cvelib 1.7.1,329,0.56
+cveClient,280,0.48
+VINCE,213,0.36
+F5 SIRTBot v1.0,173,0.3
+ibm-cvegen,165,0.28
+NVIDIA PSIRT,140,0.24
+AMD PSIRT Automation 1.0,84,0.14
+CVE-Request-form 0.0.1,69,0.12
+csaf2cve 0.2.1,39,0.07
+Robot Vulnerability Database (RVD),28,0.05
+Elastic CVE Publisher 0.0.1,24,0.04
+csaf2cve 0.2.0,19,0.03
+cpansec-cna-tool 0.1,17,0.03
+scooter,11,0.02
+RTI Lubna 1.14.2,8,0.01
+advisoriator,8,0.01
+Tod's Junk Converter 0.0.2,6,0.01
+cve-kit 0.1.0,3,0.01
+cve-kit 1.0.0,2,0.0
+meow :3,1,0.0
+Manual-assembly-2025,1,0.0
+RTI Lubna 1.15.2,1,0.0
+Cat Meow 0.2.0,1,0.0
+Vuln0gram 0.2.0,1,0.0
+ArtManionBot 0.3b,1,0.0
+vulncheck-kentico,1,0.0

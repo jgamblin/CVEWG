@@ -1,6 +1,6 @@
 # CVE Record Validation Rules
 
-This document outlines the validation rules applied to the CVE Record schema as defined in the [CVE Record Format](https://github.com/CVEProject/cve-schema/blob/main/schema/docs/CVE_Record_Format_bundled.json).
+This document outlines the validation rules applied to the CVE Record schema as defined in the [CVE Record Format](https://github.com/CVEProject/cve-schema/blob/main/schema/docs/CVE_Record_Format_bundled.json) and those applied by the CVE Services System. 
 
 ## Validation Rules
 
@@ -77,9 +77,6 @@ This document outlines the validation rules applied to the CVE Record schema as 
     - **Validation**:
         - Must be a valid JSON document.
         - Must conform to the CVE Record schema.
-
-For more details, refer to the [CVE Schema Documentation](https://github.com/CVEProject/cve-schema).
-
 
 ### 12. CVE Services Validation Rule
 - **Field**: `DatePublic`
